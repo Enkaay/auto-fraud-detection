@@ -1,0 +1,6 @@
+AccidentArea,Sex,MaritalStatus,Fault,PolicyType,VehicleCategory,VehiclePrice,Deductible,DriverRating,Days_Policy_Accident,AgeOfPolicyHolder,PoliceReportFiled,WitnessPresent,AgentType,NumberOfSuppliments,NumberOfCars,Year,BasePolicy
+1,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,2022,0
+1,0,2,0,0,0,0,0,1,0,0,0,1,0,0,3,2022,0
+1,0,2,0,0,0,0,0,1,0,0,0,1,0,0,3,2022,0
+1,0,2,0,0,0,0,0,1,0,0,0,1,0,0,3,2022,0
+1,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,2022,0
