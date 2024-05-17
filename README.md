@@ -1,9 +1,11 @@
 ## Vehicle Fraud Detection Tool: 
 ### Insurance fraud is a big problem for insurance companies as such, this project aims to detect insurance fraud using machine learning. The project consists of two parts: Jupyter notebook and a web application.
-the Jupyter notebook is for data analysis and machine learning model building and the web application for deploying the model using Streamlit
+The Jupyter notebook is for data analysis and machine learning model building and the web application for deploying the model using Streamlit
 
-## The running version of this app can be viewed online using this URL
-https://auto-fraud-detection-cetm46-bi55iw.streamlit.app/
+## [View the APP - Published Version](https://auto-fraud-detection-cetm46-bi55iw.streamlit.app)
+A running version of this app can be viewed at
+[Auto-Fraud-Detection App](https://auto-fraud-detection-cetm46-bi55iw.streamlit.app)
+
 
 To run locally, follow the installation guide below
 
